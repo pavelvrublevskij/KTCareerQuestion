@@ -1,5 +1,7 @@
-# KTCareerQuestion
-Private test project to see how to use basics: DB (SQLite), Streams, Swing
+# KTCareerQuestion for Students
+-== This project has very legacy code and need improvements ==-
+
+Project helps to see how to use basics: DB (SQLite), Streams, Swing
 
 Could be chosen as basic learning source for students.
 
